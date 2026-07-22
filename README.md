@@ -34,7 +34,7 @@
 
 只需要一个域名，就可以创建多个不同的邮箱，类似各大邮箱平台，本项目支持署到 Cloudflare Workers ，降低服务器成本，搭建自己的邮箱服务
 
-## 项目展示
+## 项目展示.
 
 - [在线演示](https://skymail.ink)<br>
 - [部署文档](https://doc.skymail.ink)<br>
